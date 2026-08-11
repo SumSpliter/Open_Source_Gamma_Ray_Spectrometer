@@ -1,3 +1,4 @@
 https://voices.uchicago.edu/ucflow/2021/11/22/sipm-vs-pmt-a-photon-finish/
 https://github.com/OpenSiPM/sipm-array 
 https://hackaday.io/project/188090-mini-sipm-driver-board  
+https://en.wikipedia.org/wiki/Gamma-ray_spectrometer
